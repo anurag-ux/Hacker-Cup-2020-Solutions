@@ -5,6 +5,7 @@
 Solutions for the Hacker Cup 2020 Organized by Facebook.
 <hr>
 Here i upload my solution code and the algorithms behind the problems of the Qualification Round of Facebook Hacker Cup 2020
+<br>
 #Language Used : C++
 
 
