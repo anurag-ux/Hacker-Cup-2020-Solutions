@@ -94,3 +94,9 @@ void solve(int n,int x)
 		cout<<endl;
 	}*/
 }
+
+
+//Time Complexity of Solution : O(n^2)
+//Space Complexity : O(n^2)
+
+//a better way to implement it would be to use an unweighted directed map and i will implement it soon!
